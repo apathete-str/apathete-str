@@ -1,13 +1,16 @@
-<div align="center">
-  <!-- Blurred, Animated Gradient Header -->
+<!--<div align="center">
+ 
  <div align="center">
-  <!-- Blurred, Animated Gradient Header with Namaskar Emoji -->
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Pranam!%20I'm%20Anshuman%20Ray&fontSize=55&fontColor=000000&animation=scaleIn&blur=10" width="100%" alt="Blurred Header"/>
 </div>
-<!-- <div align="center">
+ <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F5A97F&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anshuman+Ray!+%F0%9F%91%8B;" alt="Typing SVG" />
+</h1>
 </div>
 <div align="center">
   <a href="mailto:rayanshuman4@gmail.com">
