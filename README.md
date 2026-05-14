@@ -31,10 +31,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Neon Divider" />
-</div>
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
