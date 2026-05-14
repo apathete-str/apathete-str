@@ -11,16 +11,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F5A97F&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anshuman+Ray!+%F0%9F%91%8B;" alt="Typing SVG" />
 </h1>
+
 </div>
 <div align="center">
   <a href="mailto:rayanshuman4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<div align="center">
-  <!-- Animated Neon Line -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Neon Divider" />
 </div>
 
 ### 🚀 Quick Bio
